@@ -6,7 +6,7 @@
 
 [1 - React Testing Libraries - Project Setup ](../../tree//)
 
-[2 - Empty ](../../tree//)
+[2 - Added the first component to be tested ](../../tree/6b36e9dcf91cffe33dcbd858c33e59787ab0f408/)
 
 [3 - Empty ](../../tree//)
 
