@@ -20,6 +20,4 @@
 
 [8 - Testing Async code ](../../tree/36078aa1345572a0272d0edeedf2d5c7144e2b10/)
 
-[9 - Empty ](../../tree//)
-
-[10 - Empty ](../../tree//)
+[9 - Working with mocks ](../../tree/43eba172fd05083301608b48496d3469b490245b/)
