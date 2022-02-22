@@ -14,6 +14,6 @@
 
 [5 - Testing state and user interaction ](../../tree/2b110a908f3ef38f203404f594617279a561e014/)
 
-[6 - Empty ](../../tree//)
+[6 - Testing 'toBeNull()' ](../../tree/4834f5ce82ae72e70af9714a07dcad148c3b9095/)
 
 [7 - Empty ](../../tree//)
